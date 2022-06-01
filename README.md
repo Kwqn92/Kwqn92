@@ -7,7 +7,7 @@ Discord bot and Node.js Developer
 * 🌍  I'm based in Turkey
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/946496520562311168)](https://discord.com/users/946496520562311168&animated=false&hideTimestamp=true)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:946496520562311168)](https://discord.com/users/:946496520562311168)
 ### Skills
 
 <p align="left">
