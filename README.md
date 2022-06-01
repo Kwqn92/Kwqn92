@@ -6,9 +6,9 @@ Discord bot and Node.js Developer
 
 * 🌍  I'm based in Turkey
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/946496520562311168)](https://discord.com/users/946496520562311168)
+[![Discord Presence](https://lanyard.cnrad.dev/api/946496520562311168?theme=dark&animated=false&hideDiscrim=true&idleMessage=NothinksFeelForYou)](https://discord.com/users/946496520562311168)
 
-![](https://komarev.com/ghpvc/?username=RowyHere&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Kwqn92&label=PROFILE+VIEWS)
 ### Skills
 
 <p align="left">
