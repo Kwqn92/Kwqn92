@@ -6,7 +6,13 @@ Discord bot and Node.js Developer
 
 * 🌍  I'm based in Turkey
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/946496520562311168?theme=dark&animated=false&hideDiscrim=true&idleMessage=NothinksFeelForYou)](https://discord.com/users/946496520562311168)
+<iframe
+    src="https://linkcord.js.org/api/v3/widget/678589974903521288?type=spotify_large&theme=dark"
+    width="600"
+    height="150"
+    allowtransparency="true"
+    frameborder="0"
+/>
 
 ![](https://komarev.com/ghpvc/?username=Kwqn92&label=PROFILE+VIEWS)
 
